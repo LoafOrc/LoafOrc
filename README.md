@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @LoafOrc
-- 👀 I’m interested in figuring out how to essnetialy own minecraft
-- 🌱 I’m currently learning Spigot/Java
-- 💞️ I’m looking to collaborate on Spigot 
+## 👋 Hi, I’m @LoafOrc
+I'm a passoniate developer. While most of my programming work is in Java, I do use other programming languages like Python, C# and JavaScript. I have been recently learning about networking and HTTP requests.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoafOrc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
-LoafOrc/LoafOrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+helo there
 --->
