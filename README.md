@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @LoafOrc
-I'm a passoniate developer. While most of my programming work is in Java, I do use other programming languages like Python, C# and JavaScript. I have been recently learning about networking and HTTP requests.
+I make random things with a wide range of different languages. I mainly use Java and make intresting Minecraft plugins. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoafOrc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
